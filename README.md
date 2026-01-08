@@ -1,4 +1,4 @@
-```markdown
+
 # Telco Customer Churn Analysis - EDA Project
 
 ## 📊 Project Overview
@@ -36,3 +36,4 @@ Exploratory Data Analysis (EDA) of telecom customer churn patterns to identify k
 
 *Analysis provides actionable insights for customer retention strategies in telecom.*
 ```
+
