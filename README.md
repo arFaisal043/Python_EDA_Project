@@ -33,12 +33,12 @@ Exploratory Data Analysis (EDA) of telecom customer churn patterns to identify k
 - Dataset-specific insights
 
 ## Project Report
-[Check the Project Report](https://drive.google.com/file/d/1hx81KvjdSVQLPwBj_jjGGOp5KgzcBhU3/view?usp=sharing)
+- **Project Report:** [Check the Project Report](https://drive.google.com/file/d/1hx81KvjdSVQLPwBj_jjGGOp5KgzcBhU3/view?usp=sharing)
 
 ## 👥 Author
 
 **Abdur Rahman Faisal**  
-*Software Engineering Enthusiast | CSE Student @ SEU*
+*Software and Data Enthusiast | CSE Student @ SEU*
 
 - **Email:** arfaisal463@gmail.com
 - **LinkedIn:** [linkedin.com/in/abdur-rahman-faisal](https://www.linkedin.com/in/abdur-rahman-faisal/)
